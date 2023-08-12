@@ -1,16 +1,14 @@
-# datalogic_sdk_project
+[TR]
+Datalogic SDK'sı ile birlikte Android PDA cihazları için geliştirilen Flutter uygulaması. Android cihaz özelliklerini kullanabilmek için Kotlin'le haberleşmektedir. 
+Medium makalesi üzerine yüklenmiştir. Datalogic SDK nasıl kullanılır, nasıl dahil edilir, Flutter ile Kotlin nasıl haberleştirilir gibi sorulara yanıt bulabilirsiniz.
+Oluşturulma amacı Türkçe kaynakların sayısını arttırmak.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+[EN]
+Flutter app for Android PDA devices with Datalogic SDK. Communicating with Kotlin for use android device properties.
+Uploaded for Medium article. You can find answers to questions such as how to use Datalogic SDK, how to include it, how to communicate Flutter and Kotlin.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
