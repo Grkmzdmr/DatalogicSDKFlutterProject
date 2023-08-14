@@ -19,9 +19,8 @@ class _MainPageState extends State<MainPage> {
 
   @override
   void initState() {
-    _service
-        .getDeviceInfo()
-        .then((value) => _serialNumberStreamController.sink.add(value));
+    _service.getDeviceInfo().then((value) =>
+        _serialNumberStreamController.sink.add(value.substring(0, 3) + 'XXXX'));
     super.initState();
   }
 
