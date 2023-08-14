@@ -1,8 +1,7 @@
 
 
 
-
-
+<img align="left" src="https://github.com/Grkmzdmr/DatalogicSDKFlutterProject/blob/my-new-branch/datalogic_sdk_project/assets/images/screen.png"  title="ScreenShot" >
 
 
 [EN]
